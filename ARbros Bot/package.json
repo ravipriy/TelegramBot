@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "micro-bot": "^2.5.3",
+    "telegraf": "^4.9.1"
+  },
+  "name": "arbros-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro-bot"
+  },
+  "keywords": [],
+  "author": "Arav Aryan",
+  "license": "ISC",
+  "description": "Bot for ARbros"
+}
